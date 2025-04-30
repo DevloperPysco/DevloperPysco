@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @DevloperPysco
-- 👀 I’m interested in Mahadev
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on Minecraft server
-- 📫 How to reach me DC-god_devil81
-- 😄 Pronouns: Pysco
-- ⚡ Fun fact: Nothing Rn
+- 👋 Hi, I’m @DevloperPysco.
+- im a professional coder/devloper i make plugins for Minecraft servers.
+- i know 10 coding languages -
+- Python
+- java
+- c#
+- java script
+- c++
+- type script 
+- ruby
+- go
+- rust
+- kotlin
+- 
 
 <!---
 DevloperPysco/DevloperPysco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
